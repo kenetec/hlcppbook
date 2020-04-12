@@ -1,1 +1,1 @@
-# Segfault. Segfault. Segfault. Quit. 🤬
+## Segfault. Segfault. Segfault. Quit. 🤬
